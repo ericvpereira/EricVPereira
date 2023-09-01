@@ -35,11 +35,11 @@ class Skills extends Developer {
 ## Status
 
 <a href="https://github.com/ericvpereira">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericvpereira&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericvpereira&theme=dark&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/ericvpereira">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ericvpereira&show_icons=true&theme=dracula&line_height=40" alt="**ERIC VIEIRA** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ericvpereira&show_icons=true&theme=dark&line_height=40" alt="**ERIC VIEIRA** github stats"/>
 </a>
 
 <br>
