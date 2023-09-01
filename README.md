@@ -1,6 +1,7 @@
 # Hey Devs 👋
 
-### I am a front-end developer, born in São Paulo Brazil, graduated in Computer Science in the year 2022. I enjoy creating great software and helping other people do the same.
+#### I am a front-end developer, born in São Paulo Brazil, graduated in Computer Science in the year 2022. 
+#### I enjoy creating great software and helping other people do the same.
 
 ## More About Me
 
