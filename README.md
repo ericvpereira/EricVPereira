@@ -39,7 +39,7 @@ class Skills extends Developer {
 </a>
 
 <a href="https://github.com/ericvpereira">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ericvpereira&show_icons=true&theme=dracula&line_height=35" alt="**ERIC VIEIRA** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ericvpereira&show_icons=true&theme=dracula&line_height=40" alt="**ERIC VIEIRA** github stats"/>
 </a>
 
 [website]: https://codedev.ga/
