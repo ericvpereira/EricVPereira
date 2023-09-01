@@ -1,4 +1,4 @@
-# Hey Devs 👋
+# Hey Devs :computer:
 
 **I am a front-end developer, born in São Paulo Brazil, graduated in Computer Science in the year 2022.**
 **I enjoy creating great software and helping other people do the same.**
