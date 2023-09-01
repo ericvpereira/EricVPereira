@@ -1,11 +1,10 @@
 # Hey Devs 👋
 
-I am a front-end developer, born in São Paulo Brazil, graduated in Computer Science in the year 2022.
-I enjoy creating great software and helping other people do the same.
+### I am a front-end developer, born in São Paulo Brazil, graduated in Computer Science in the year 2022. I enjoy creating great software and helping other people do the same.
 
 ## More About Me
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right">
 
 ```js
 import Developer from "ericvpereira";
