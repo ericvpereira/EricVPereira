@@ -1,30 +1,59 @@
-### Seja Bem Vindo 👋
+# Hey Devs 👋
 
-- 🌱 Estudante de Ciência da Computação
+I am a front-end developer, born in São Paulo Brazil, graduated in Computer Science in the year 2022.
+I enjoy creating great software and helping other people do the same.
 
-##
+## More About Me
 
-<div align="center">
-  <a href="https://github.com/EricVPereira">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EricVPereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricVPereira&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-##
+```js
+import Developer from "ericvpereira";
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+class AboutMe extends Developer {
+  name = "Eric Vieira Pereira";
+  field = "Front-End";
+}
 
-##
+class Skills extends Developer {
+  languages = ["JavaScript, Java, C, C++, C#, Python"];
+  library = ["jQuery"];
+  frameworks = ["Angular, TypeScript"];
+}
+```
 
-<div>
-  <a href="https://www.youtube.com/channel/UCfjzOpM7cnBoqqhtORpHLjQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-    <a href="https://www.instagram.com/eric.vieira.14/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:ericvieirap1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/eric-vieira-48b3aa191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## Linguagens e ferramentas
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+
+## Status
+
+<a href="https://github.com/ericvpereira">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericvpereira&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/ericvpereira">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ericvpereira&show_icons=true&theme=dracula&line_height=27" alt="**ERIC VIEIRA** github stats"/>
+</a>
+
+[website]: https://codedev.ga/
+[twitter]: https://twitter.com/SEUTWITTER
+[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
+[instagram]: https://www.instagram.com/SEUINSTAGRAM/
+[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+
+<br>
+
+## Rede sociais
+
+🏡 [Website][website] **|**
+🐦 [Twitter][twitter] **|**
+📺 [Youtube][youtube] **|**
+📷 [Instagram][instagram] **|**
+👔 [LinkedIn][linkedin]
