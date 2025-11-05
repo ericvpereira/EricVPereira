@@ -1,7 +1,3 @@
-<p align="left">```java<br>// 💻 Desenvolvedor Front-End<br><br>public class EricVieiraPereira {<br>    String field = "Back-End";<br>    String[] languages = {"JavaScript", "Java", "C", "C++", "C#", "Python"};<br>    String[] libraries = {"java.lang", "java.util", "java.io", "java.sql", "java.net"};<br>    String[] frameworks = {"Spring Boot", "Hibernate"};<br><br>    void about() {<br>        System.out.println("👋 Olá! Sou Eric Vieira Pereira, desenvolvedor Back-End apaixonado por tecnologia e código limpo.");<br>    }<br>}</p>
-
-###
-
 <div align="center">
   <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExem9qMDNmcHpoamlyMmoxcnRyb295emRjMG1rM2UxdHlmNGJ2bjF0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"  />
 </div>
