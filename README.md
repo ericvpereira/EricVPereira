@@ -35,12 +35,9 @@ Sistema CRUD desenvolvido com Java + Spring Boot.
 
 ## 📈 Estatísticas GitHub
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ericvpereira/ericvpereira/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/ericvpereira/ericvpereira/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericvpereira&show_icons=true&theme=tokyonight)
 
-###
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericvpereira&layout=compact&theme=tokyonight)
 
 ---
 
