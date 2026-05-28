@@ -1,51 +1,65 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+# Olá! Eu sou Eric 👋
 
-###
+🎯 Desenvolvedor Backend Java Júnior  
+📚 Estudando Java, Spring Boot e APIs REST  
+💻 Apaixonado por tecnologia e desenvolvimento de software  
+🚀 Em busca da primeira oportunidade como Dev Backend Java
 
-<h1 align="center">HI DEV 💻</h1>
+---
 
-###
+## 🚀 Tecnologias e Ferramentas
 
-<p align="left">Entry-level Java Developer with a solid foundation in Java and object-oriented programming. Familiar with basic backend concepts, problem-solving, and developing simple applications. Motivated to learn, improve skills, and contribute to projects while gaining hands-on experience in software development.</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ericvpereira&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ericvpereira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## 📌 Projetos em Destaque
 
-###
+### 📚 Sistema de Agenda
+Sistema CRUD desenvolvido com Java + Spring Boot.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-</div>
+🔹 Cadastro de contatos  
+🔹 API REST  
+🔹 Banco de dados MySQL  
+🔹 Arquitetura em camadas  
 
-###
+👉 [Acessar Projeto](https://github.com/ericvpereira/springboot-phonebook)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ericvpereira/ericvpereira/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ericvpereira/ericvpereira/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ericvpereira/ericvpereira/output/pacman-contribution-graph.svg">
-</picture>
+---
 
-###
+## 📈 Estatísticas GitHub
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericvpereira&show_icons=true&theme=tokyonight)
 
-###
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericvpereira&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contato
+
+📧 Email: ericvieira.p@outlook.com  
+💼 LinkedIn: https://linkedin.com/in/ervp
+🐙 GitHub: https://github.com/ericvpereira
+
+---
+
+## 🎯 Objetivos
+
+Atualmente focado em:
+
+✔️ Java e Programação Orientada a Objetos  
+✔️ Spring Boot  
+✔️ APIs RESTful  
+✔️ Banco de Dados SQL  
+✔️ Boas práticas de desenvolvimento  
+✔️ Testes automatizados  
+
+---
+
+⭐ Obrigado por visitar meu perfil!
