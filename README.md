@@ -1,560 +1,351 @@
-<!--
-████████████████████████████████████████████████████████████████
-                    ERIC VIEIRA // SYSTEM
-████████████████████████████████████████████████████████████████
--->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:05010a,25:120024,55:3b0a57,80:00e5ff,100:05010a&text=ERIC%20VIEIRA&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=JAVA%20BACKEND%20DEVELOPER%20%7C%20SYSTEM%20BUILDER&descAlignY=57&descSize=18&animation=fadeIn"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=800&lines=%3E+Initializing+backend+system...;%3E+Java+%2B+Spring+Boot;%3E+REST+APIs+%2B+PostgreSQL;%3E+Security+%2B+JWT;%3E+Docker+%2B+Clean+Architecture;%3E+SYSTEM+ONLINE"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/●%20AVAILABLE%20FOR%20OPPORTUNITIES-00ff9f?style=for-the-badge&labelColor=080808&logoColor=white"/>
-
-</div>
-
----
-
-<div align="center">
-
-## `╔═══ NEURAL INTERFACE // DEVELOPER PROFILE ═══╗`
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🧑‍💻 `IDENTITY`
+# ⚡ ERIC VIEIRA // BACKEND DEVELOPER
 
 ```text
-╭──────────────────────────────╮
-│                              │
-│  NAME     :: Eric Vieira     │
-│  ROLE     :: Backend Dev     │
-│  LANGUAGE :: Java             │
-│  FRAMEWORK:: Spring Boot     │
-│  DATABASE :: PostgreSQL      │
-│  STATUS   :: ONLINE          │
-│                              │
-╰──────────────────────────────╯
+╔══════════════════════════════════════════════════════════════╗
+║  SYSTEM ONLINE                                               ║
+║  USER: ERIC VIEIRA                                            ║
+║  ROLE: JAVA BACKEND DEVELOPER                                ║
+║  STATUS: BUILDING THE FUTURE...                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-</td>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=JAVA+BACKEND+DEVELOPER;SPRING+BOOT+%7C+JPA+%7C+POSTGRESQL;REST+APIs+%7C+JWT+%7C+DOCKER;CODE.+TEST.+DEPLOY.+REPEAT." />
+</p>
 
-<td width="50%" valign="top">
-
-### ⚡ `MISSION`
-
-```text
-┌──────────────────────────────┐
-│                              │
-│  BUILD                      │
-│   ↓                          │
-│  LEARN                      │
-│   ↓                          │
-│  TEST                       │
-│   ↓                          │
-│  REFACTOR                   │
-│   ↓                          │
-│  DEPLOY                     │
-│                              │
-└──────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### `> BACKEND IS WHERE THE MAGIC HAPPENS_`
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/JAVA-17-00F7FF?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SPRING_BOOT-3.x-00F7FF?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/POSTGRESQL-DB-00F7FF?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DOCKER-CONTAINER-00F7FF?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
 ---
 
-# 🧬 `01 // ABOUT ME`
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### 👨‍💻 Who am I?
-
-I'm a **Computer Science graduate** focused on becoming a professional **Java Backend Developer**.
-
-My main focus is building backend systems with:
-
-* ☕ Java
-* 🌱 Spring Boot
-* 🔐 Spring Security
-* 🗄️ PostgreSQL
-* 🐳 Docker
-* 🔄 REST APIs
-* 🧩 JPA / Hibernate
-
-I enjoy solving problems through **clean code, good architecture and maintainable systems**.
-
-</td>
-
-<td width="40%" valign="top">
-
-```text
-┌─────────────────────┐
-│  DEVELOPER CORE     │
-├─────────────────────┤
-│                     │
-│  JAVA       ██████  │
-│  SPRING     █████░  │
-│  SQL        █████░  │
-│  API        █████░  │
-│  DOCKER     ████░░  │
-│  SECURITY   ████░░  │
-│  TESTING    ███░░░  │
-│                     │
-└─────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
----
-
-# ⚙️ `02 // TECH STACK`
-
-<div align="center">
-
-### `BACKEND`
-
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven&theme=dark"/>
-
-<br><br>
-
-### `DATABASE`
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark"/>
-
-<br><br>
-
-### `DEVOPS / TOOLS`
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,postman,idea&theme=dark"/>
-
-</div>
-
-<br>
-
-<table align="center">
-<tr>
-<td align="center">
-
-**JAVA**
-
-☕ OOP
-☕ Collections
-☕ Generics
-☕ Streams
-☕ Exceptions
-
-</td>
-
-<td align="center">
-
-**SPRING**
-
-🌱 Boot
-🌱 MVC
-🌱 Data JPA
-🌱 Security
-🌱 REST
-
-</td>
-
-<td align="center">
-
-**DATABASE**
-
-🗄️ SQL
-🗄️ PostgreSQL
-🗄️ MySQL
-🗄️ Hibernate
-🗄️ Modeling
-
-</td>
-
-<td align="center">
-
-**DEVOPS**
-
-🐳 Docker
-🔧 Git
-📦 Maven
-🚀 CI/CD
-🧪 Testing
-
-</td>
-</tr>
-</table>
-
----
-
-# 🚀 `03 // FEATURED PROJECT`
-
-<div align="center">
-
-## 📱 `SPRING BOOT PHONEBOOK API`
-
-<img src="https://img.shields.io/badge/STATUS-PRODUCTION--READY-00ff9f?style=for-the-badge&labelColor=080808"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/JAVA-17+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SPRING_BOOT-3.x-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-</div>
-
-<br>
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-### 📡 Project
-
-A REST API developed to manage contacts and addresses using a layered backend architecture.
-
-### Features
-
-```text
-✓ CRUD
-✓ DTOs
-✓ Validation
-✓ Exception Handling
-✓ Global Exception Handler
-✓ JPA / Hibernate
-✓ PostgreSQL
-✓ Flyway
-✓ Spring Security
-✓ JWT
-✓ Docker
-```
-
-</td>
-
-<td width="45%" valign="top">
-
-### 🛰️ Architecture
-
-```text
-       CLIENT
-         │
-         ▼
-   ┌───────────┐
-   │ CONTROLLER│
-   └─────┬─────┘
-         │
-         ▼
-   ┌───────────┐
-   │  SERVICE  │
-   └─────┬─────┘
-         │
-         ▼
-   ┌───────────┐
-   │ REPOSITORY│
-   └─────┬─────┘
-         │
-         ▼
-   ┌───────────┐
-   │ POSTGRESQL│
-   └───────────┘
-```
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<a href="https://github.com/ericvpereira/springboot-phonebook">
-
-<img src="https://img.shields.io/badge/⚡%20OPEN%20REPOSITORY-00F5FF?style=for-the-badge&labelColor=080808"/>
-
-</a>
-
-</div>
-
----
-
-# 🔐 `04 // SECURITY PROTOCOL`
-
-<div align="center">
-
-```text
-                    ┌───────────────┐
-                    │    CLIENT     │
-                    └───────┬───────┘
-                            │
-                            ▼
-                 ┌──────────────────┐
-                 │ SPRING SECURITY  │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │ AUTHENTICATION   │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │      JWT         │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │ PROTECTED API    │
-                 └──────────────────┘
-```
-
-<br>
-
-<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/AUTHENTICATION-FF00FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AUTHORIZATION-00F5FF?style=for-the-badge"/>
-
-</div>
-
----
-
-# 🧠 `05 // ENGINEERING PRINCIPLES`
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">🧹<br><b>CLEAN CODE</b></td>
-<td align="center">🏗️<br><b>ARCHITECTURE</b></td>
-<td align="center">🔐<br><b>SECURITY</b></td>
-<td align="center">🧪<br><b>TESTING</b></td>
-</tr>
-
-<tr>
-<td align="center">🧩<br><b>SOLID</b></td>
-<td align="center">🔄<br><b>REST</b></td>
-<td align="center">🗄️<br><b>DATABASE</b></td>
-<td align="center">🐳<br><b>DOCKER</b></td>
-</tr>
-</table>
-
-</div>
-
----
-
-# 🛣️ `06 // ROADMAP`
-
-<div align="center">
-
-```text
-                 JAVA BACKEND JOURNEY
-
-                    ┌─────────────┐
-                    │    JAVA     │
-                    └──────┬──────┘
-                           │
-                           ▼
-                  ┌────────────────┐
-                  │      OOP       │
-                  └───────┬────────┘
-                          │
-                          ▼
-                  ┌────────────────┐
-                  │  SPRING BOOT   │
-                  └───────┬────────┘
-                          │
-                          ▼
-                  ┌────────────────┐
-                  │    REST API    │
-                  └───────┬────────┘
-                          │
-                          ▼
-                  ┌────────────────┐
-                  │ JPA / HIBERNATE│
-                  └───────┬────────┘
-                          │
-                          ▼
-                  ┌────────────────┐
-                  │   POSTGRESQL   │
-                  └───────┬────────┘
-                          │
-                          ▼
-                  ┌────────────────┐
-                  │ SECURITY + JWT │
-                  └───────┬────────┘
-                          │
-                          ▼
-                  ┌────────────────┐
-                  │     DOCKER     │
-                  └───────┬────────┘
-                          │
-                          ▼
-                  ┌────────────────┐
-                  │    CI / CD     │
-                  └───────┬────────┘
-                          │
-                          ▼
-                  ┌────────────────┐
-                  │  CLOUD / AWS   │
-                  └────────────────┘
-```
-
-</div>
-
----
-
-# 📊 `07 // GITHUB TELEMETRY`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ericvpereira&show_icons=true&hide_border=true&theme=tokyonight&bg_color=05010A&title_color=00F5FF&icon_color=FF00FF&text_color=FFFFFF&rank_icon=github" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericvpereira&layout=compact&hide_border=true&theme=tokyonight&bg_color=05010A&title_color=00F5FF&text_color=FFFFFF" width="42%"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ericvpereira&theme=tokyonight&hide_border=true&background=05010A&ring=00F5FF&fire=FF00FF&currStreakLabel=00F5FF"/>
-
-</div>
-
----
-
-# 📡 `08 // ACTIVITY MONITOR`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ericvpereira&bg_color=05010A&color=00F5FF&line=FF00FF&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
----
-
-# 🎯 `09 // CURRENT OBJECTIVES`
-
-<table align="center">
-<tr>
-<td>
-
-### `NOW`
-
-```text
-[██████████████████░░] Spring Boot
-[████████████████░░░░] REST APIs
-[████████████████░░░░] JPA / Hibernate
-[██████████████░░░░░░] PostgreSQL
-[██████████████░░░░░░] Spring Security
-[████████████░░░░░░░░] JWT
-```
-
-</td>
-
-<td>
-
-### `NEXT`
-
-```text
-[░░░░░░░░░░░░░░░░░░░░] JUnit
-[░░░░░░░░░░░░░░░░░░░░] Mockito
-[░░░░░░░░░░░░░░░░░░░░] CI/CD
-[░░░░░░░░░░░░░░░░░░░░] AWS
-[░░░░░░░░░░░░░░░░░░░░] Microservices
-```
-
-</td>
-</tr>
-</table>
-
----
-
-# 💻 `10 // DEVELOPER TERMINAL`
+## 🧬 `WHOAMI`
 
 ```java
 public class EricVieira {
 
-    private final String role =
-            "Java Backend Developer";
+    String role = "Java Backend Developer";
+    String focus = "Backend Development";
+    String mainStack = "Java + Spring Boot";
 
-    private final String mission =
-            "Build reliable and scalable systems";
+    String[] interests = {
+        "REST APIs",
+        "Clean Code",
+        "Software Architecture",
+        "Security",
+        "Automated Testing",
+        "Docker"
+    };
 
-    public void execute() {
+    String mission =
+        "Build reliable, maintainable and scalable backend systems.";
 
-        while (true) {
-
-            learn();
-            build();
-            test();
-            refactor();
-            improve();
-        }
-    }
 }
 ```
 
-<div align="center">
+🎓 **Computer Science**
 
-### `> BUILDING THE BACKEND OF TOMORROW_`
+💻 Focused on **Java Backend Development**
 
-</div>
+🚀 Currently building projects with **Spring Boot**
+
+🧠 Interested in software architecture, security and clean code
+
+🔧 Learning by building real-world applications
 
 ---
 
-# 🌐 `11 // CONNECT`
+# 🌐 `TECH STACK`
 
-<div align="center">
+### ⚡ BACKEND
 
-<a href="https://github.com/ericvpereira">
-<img src="https://img.shields.io/badge/GITHUB-05010A?style=for-the-badge&logo=github&logoColor=00F5FF"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-05010A?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate" />
+</p>
 
 ```text
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║                  SYSTEM STATUS: ONLINE                     ║
-║                                                            ║
-║       JAVA  •  SPRING  •  DATABASE  •  SECURITY            ║
-║                                                            ║
-║                 BUILD. LEARN. EVOLVE.                     ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
+JAVA
+├── OOP
+├── Collections
+├── Streams
+├── Exceptions
+├── Generics
+└── Clean Code
+
+SPRING
+├── Spring Boot
+├── Spring Web
+├── Spring Data JPA
+├── Spring Security
+└── REST APIs
 ```
 
-</div>
+### 🗄️ DATABASE
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:05010a,30:3b0a57,65:00e5ff,100:05010a&section=footer"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+</p>
 
-<!--
-SYSTEM TERMINATED.
-CONNECTION REMAINS ACTIVE.
--->
+```text
+DATABASE
+├── PostgreSQL
+├── MySQL
+├── JPA / Hibernate
+├── SQL
+├── Relationships
+└── Database Migrations
+```
+
+### 🔐 SECURITY
+
+```text
+AUTHENTICATION
+├── Spring Security
+├── JWT
+├── BCrypt
+├── Role-Based Authorization
+└── Stateless Authentication
+```
+
+### 🧪 TESTING
+
+<p>
+  <img src="https://skillicons.dev/icons?i=junit" />
+</p>
+
+```text
+TESTING
+├── JUnit 5
+├── Mockito
+├── Spring Security Test
+├── Unit Tests
+└── Integration Tests
+```
+
+### 🐳 DEVOPS / TOOLS
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman" />
+</p>
+
+---
+
+# 🚀 `CURRENT PROJECT`
+
+## 📡 SPRING BOOT PHONEBOOK API
+
+> A production-oriented REST API built to practice and demonstrate modern Java backend development.
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                    PHONEBOOK API                              │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  REST API                                                    │
+│      │                                                       │
+│      ├── Authentication                                      │
+│      │      └── JWT                                          │
+│      │                                                       │
+│      ├── Authorization                                       │
+│      │      ├── USER                                         │
+│      │      └── ADMIN                                        │
+│      │                                                       │
+│      ├── Contacts                                             │
+│      │      ├── CREATE                                       │
+│      │      ├── READ                                         │
+│      │      ├── UPDATE                                       │
+│      │      └── DELETE                                       │
+│      │                                                       │
+│      ├── Validation                                          │
+│      ├── Exception Handling                                  │
+│      ├── PostgreSQL                                          │
+│      ├── Flyway                                              │
+│      ├── Docker                                              │
+│      └── Automated Tests                                     │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+### 🔐 Security
+
+* JWT Authentication
+* BCrypt password hashing
+* Role-based authorization
+* Protected endpoints
+* `401 Unauthorized`
+* `403 Forbidden`
+
+### 🧪 Quality
+
+```text
+TEST SUITE
+
+34 TESTS
+████████████████████████████████████████
+
+PASSING: 34
+FAILED:  0
+ERRORS:  0
+```
+
+### 🐳 Infrastructure
+
+* Docker
+* Docker Compose
+* PostgreSQL
+* Flyway migrations
+* Environment variables
+
+---
+
+# 🧠 `WHAT I'M BUILDING`
+
+```text
+[ JAVA ]
+    │
+    ▼
+[ SPRING BOOT ]
+    │
+    ├──────────────► REST APIs
+    │
+    ├──────────────► JPA / HIBERNATE
+    │
+    ├──────────────► SPRING SECURITY
+    │
+    ├──────────────► JWT
+    │
+    └──────────────► TESTING
+            │
+            ▼
+       [ DOCKER ]
+            │
+            ▼
+      [ POSTGRESQL ]
+```
+
+My current objective is to evolve from **Junior Developer → solid Backend Engineer**, focusing on fundamentals, architecture, testing and production-ready practices.
+
+---
+
+# 📊 `GITHUB SYSTEM STATUS`
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ericvpereira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericvpereira&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
+</p>
+
+---
+
+# 📈 `CURRENT LEARNING PROTOCOL`
+
+```text
+01  JAVA
+    └── Advanced language fundamentals
+
+02  SPRING BOOT
+    └── REST API architecture
+
+03  DATABASE
+    └── PostgreSQL + JPA + Hibernate
+
+04  SECURITY
+    └── Spring Security + JWT
+
+05  TESTING
+    └── JUnit + Mockito + Integration Tests
+
+06  DEVOPS
+    └── Docker + Docker Compose
+
+07  ARCHITECTURE
+    └── Clean Code + SOLID + Design Patterns
+```
+
+---
+
+# 🎯 `2026 OBJECTIVES`
+
+```text
+[x] Build REST API with Spring Boot
+[x] Implement CRUD
+[x] Use DTOs
+[x] Implement validation
+[x] PostgreSQL integration
+[x] JPA / Hibernate
+[x] Flyway migrations
+[x] Spring Security
+[x] JWT Authentication
+[x] Role-based authorization
+[x] Global exception handling
+[x] Automated tests
+[x] Docker / Docker Compose
+[x] API documentation
+
+[ ] Improve system architecture
+[ ] Expand integration testing
+[ ] CI/CD pipeline
+[ ] Cloud deployment
+[ ] Build larger backend projects
+```
+
+---
+
+# ⚡ `DEVELOPER PHILOSOPHY`
+
+```text
+          CODE
+           │
+           ▼
+        TEST IT
+           │
+           ▼
+       UNDERSTAND IT
+           │
+           ▼
+       IMPROVE IT
+           │
+           ▼
+        SHIP IT
+           │
+           └──────────────► REPEAT
+```
+
+> **Don't just make it work. Understand why it works.**
+
+---
+
+# 📡 `CONNECT`
+
+<p align="center">
+
+<a href="https://github.com/ericvpereira">
+  <img src="https://img.shields.io/badge/GitHub-ERICPEREIRA-00F7FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║        SYSTEM STATUS: ONLINE                                 ║
+║                                                              ║
+║        JAVA BACKEND DEVELOPMENT                              ║
+║        [██████████████████████████████░░░░░░]               ║
+║                                                              ║
+║        NEXT TARGET: BACKEND ENGINEER                         ║
+║                                                              ║
+║        > KEEP CODING                                         ║
+║        > KEEP LEARNING                                       ║
+║        > KEEP BUILDING                                       ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<p align="center">
+  <sub>⚡ Built with Java, caffeine and persistence.</sub>
+</p>
